@@ -1,7 +1,0 @@
-* C:\Users\SR118\Documents\LTspiceXVII\Draft2.asc
-V1 N001 0 PULSE(0 10 0 1p 1p 10m 20m)
-R1 Vc N001 1k
-C1 Vc 0 1µ
-.tran 0 10m 0 10u
-.backanno
-.end

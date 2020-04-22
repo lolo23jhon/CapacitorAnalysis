@@ -41,5 +41,5 @@ def main(input_filename, output_filename):
 
 if __name__ == "__main__":
     ifile = input("Input file name: ")
-    ofile = input("Output filename ")
+    ofile = input("Output filename: ")
     main(ifile, ofile)
